@@ -7,9 +7,9 @@
 ※ 본 프로그램은 사용자 UUID를 기반으로 추적 및 차단 기능이 포함되어 있습니다.
 
 Copyright ⓒ 2025 HS. All rights reserved.
-Unauthorized reproduction or redistribution is strictly prohibited.
+Unauthorized reproduction or redistribution is strictly prohibited. 
 """
-
+ 
 import sys
 import os
 import uuid
